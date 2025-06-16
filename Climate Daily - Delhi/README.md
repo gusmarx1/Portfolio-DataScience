@@ -1,8 +1,9 @@
-# Projeto: [Climate Daily Delhi](https://www.kaggle.com/datasets/sumanthvrao/daily-climate-time-series-data)
+# Projeto: Climate Daily Delhi
 *Objetivo do estudo*: Verificar informações sobre o clima em Deli (Índia) e realizar teste de modelos para previsão de séries temporais com foco no estudo dos modelos. No fim, é realizado um comparativo entre o Erro quadrático médio dos modelos.
 
 *Linguagem utilizada*: Python.
 *Adicionais*: Dashboard PowerBI.
+*Dados*: [Kaggle](https://www.kaggle.com/datasets/sumanthvrao/daily-climate-time-series-data)
 
 Etapas:
 
