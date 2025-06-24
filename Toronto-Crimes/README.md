@@ -13,20 +13,20 @@
 ## 📋 Etapas do Projeto
 
 1. **Preparação do Ambiente**  
-   ▸ Importação das bibliotecas;
-   ▸ Carregamento dos dados diretamente via Kaggle;
-   ▸ Tratamento de colunas e conversão de tipos de dados (datas e localização).
+   ▸ Importação das bibliotecas;  
+   ▸ Carregamento dos dados diretamente via Kaggle;  
+   ▸ Tratamento de colunas e conversão de tipos de dados (datas e localização).  
 
 3. **Análise Exploratória (EDA)**  
-   ▸ Frequência de crimes por ano;
-   ▸ Crimes por bairro;
-   ▸ Análise por horário e categoria criminal;
-   ▸ Identificação de meses e horários com maior número de ocorrências;
-   ▸ Visualização de tendências temporais e distribuições.
+   ▸ Frequência de crimes por ano;  
+   ▸ Crimes por bairro;  
+   ▸ Análise por horário e categoria criminal;  
+   ▸ Identificação de meses e horários com maior número de ocorrências;  
+   ▸ Visualização de tendências temporais e distribuições.  
 
 4. **Resultados obtidos.**  
-   ▸ Horários noturnos, especialmente à meia-noite, são os mais perigosos em termos absolutos;
-   ▸ Fevereiro tende a ser o mês com menos ocorrências, o que pode estar associado ao invernoe feriados;
-   ▸ Crimes como arrombamentos, invasões e furtos de carro, mostram tendência de crescimento nos últimos anos;
-   ▸ Identificação dos bairros com maior número de ocorrências por categoria criminal;
-   ▸ Preocupação com a expansão geografica do crime.
+   ▸ Horários noturnos, especialmente à meia-noite, são os mais perigosos em termos absolutos;  
+   ▸ Fevereiro tende a ser o mês com menos ocorrências, o que pode estar associado ao invernoe feriados;  
+   ▸ Crimes como arrombamentos, invasões e furtos de carro, mostram tendência de crescimento nos últimos anos;  
+   ▸ Identificação dos bairros com maior número de ocorrências por categoria criminal;  
+   ▸ Preocupação com a expansão geografica do crime.  
